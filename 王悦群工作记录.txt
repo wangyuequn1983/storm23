@@ -1,0 +1,6 @@
+线上linux:
+114.116.103.64
+root
+TELLYESzl1212
+
+2020-2-12 修改数据库表 videostreamserver ip 192.168.4.114->117.12.208.126
